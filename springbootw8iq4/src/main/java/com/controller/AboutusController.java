@@ -37,13 +37,7 @@ import com.utils.MPUtil;
 import com.utils.CommonUtil;
 import java.io.IOException;
 
-/**
- * 关于我们
- * 后端接口
- * @author 
- * @email 
- * @date 2023-01-05 15:26:04
- */
+
 @RestController
 @RequestMapping("/aboutus")
 public class AboutusController {
