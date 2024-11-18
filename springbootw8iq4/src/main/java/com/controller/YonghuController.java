@@ -40,9 +40,7 @@ import java.io.IOException;
 /**
  * 用户
  * 后端接口
- * @author 
- * @email 
- * @date 2023-01-05 15:26:04
+
  */
 @RestController
 @RequestMapping("/yonghu")
